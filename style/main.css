@@ -1,0 +1,103 @@
+.navbar-brand{
+    color: black;
+    font-weight: bold;
+    font-size: 27px;
+}
+
+.navbar-brand i{
+    color: #8A2BE2;
+    font-size: 27px;
+}
+.num-navbar-brand{
+    color: #8A2BE2;    
+    font-size:27px;
+}
+.do-bttn{
+    background-color: #8A2BE2;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius:30px;
+    -webkit-border-radius:30px;
+    -moz-border-radius:30px;
+    -ms-border-radius:30px;
+    -o-border-radius:30px;
+}
+.do-bttn:hover{
+    color: aliceblue;
+}
+.nav-link{
+    font-weight: bold;
+    font-size:17px;
+}
+.dark-mode{
+    font-weight: bold;
+}
+.h23{
+    color: #8A2BE2;
+}
+.pp333{
+    color: #0B169A;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.section-2{
+    width: 80%;
+    height: 50%;
+}
+.pp22{
+    font-size: 40px;
+}
+.pp33{
+    color: #00008B;
+    font-weight: bold;
+    font-size: 20px;
+}
+.h3-section-3{
+    color: #0018A9;
+}
+.card{
+    border: none;
+}
+.h5-card-section-3{
+color: #006421;
+font-weight: bold;
+font-size: 20px;
+}
+.p-card-section-3{
+    color: #00008B;
+    font-weight: bold;
+    font-size: 15px;
+}
+.square-image-card{
+    width: 50%;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.cs-image{
+    position: relative;
+}
+.square-image-card-s4{
+    width: 35%;
+    border-radius: 20px ;
+    -webkit-border-radius: 20px ;
+    -moz-border-radius: 20px ;
+    -ms-border-radius: 20px ;
+    -o-border-radius: 20px ;
+    position: absolute;
+    right: 6px;
+}
+.hh66 h4{
+color: #FB6B47;
+font-weight: bold;
+}
+.hh66 p{
+    color: #00008B;
+    font-weight: bold;
+    font-size: 20px;
+}
